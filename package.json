@@ -1,0 +1,35 @@
+{
+  "name": "iShell",
+  "version": "0.0.1",
+  "description": "Shell operate for demo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "shelljs": "^0.3.0",
+    "commander": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yolo2013/iShell"
+  },
+  "keywords": [
+    "shell",
+    "git",
+    "node"
+  ],
+  "author": {
+    "name": "Hua Xu",
+    "email": "xuhua.yolo@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolo2013/iShell/issues"
+  },
+  "homepage": "https://github.com/yolo2013/iShell"
+}
