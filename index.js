@@ -11,7 +11,7 @@ if(!which('git')) {
 var list = ['java', '.net', 'php'];
 
 program
-    .version('0.0.4')
+    .version('0.0.1')
     .option('-p, --platform [platform]', 'platform which you are')
     .option('-l, --language [language]', 'language of generate files')
     .parse(process.argv);
