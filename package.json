@@ -1,6 +1,6 @@
 {
   "name": "ishell",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shell operate for demo.",
   "main": "index.js",
   "scripts": {
