@@ -2,10 +2,6 @@
   "name": "ishell",
   "version": "0.0.2",
   "description": "Shell operate for demo.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
     "ishell": "index.js"
   },
@@ -19,7 +15,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/yolo2013/iShell"
+    "url": "https://github.com/yolo2013/iShell.git"
   },
   "keywords": [
     "shell",
