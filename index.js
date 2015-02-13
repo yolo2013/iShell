@@ -12,7 +12,7 @@ var list = ['java', '.net', 'php'];
 
 
 program
-    .version('0.0.4')
+    .version('0.0.6')
     .option('-p, --platform [platform]', 'platform which you are')
     .option('-l, --language [language]', 'language of generate files')
     .parse(process.argv);
@@ -21,7 +21,7 @@ program
 var platform = program.platform || 'java';
 var language = program.language || 'chin';
 
-var libUrl = 'git://192.168.84.25/generics.git';
+var libUrl = 'git://192.168.84.52/paradigm.git';
 
 
 exec('git clone ' + libUrl);
